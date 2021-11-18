@@ -17,7 +17,7 @@ A budget tracking app that lets you interact on and offline to keep track of you
 Visit the app [here!](https://db-budget-tracker-app.herokuapp.com/)
 
 ## Usage
-### Screenshots (Desktop and Mobile)
+### Screenshots 
 ![Home](./public/img/preview.png)
 
 
